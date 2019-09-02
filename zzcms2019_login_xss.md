@@ -1,6 +1,6 @@
 
 * version: zzcms2019
-* referer: http://www.zzcms.net/about/6.htm
+* source: http://www.zzcms.net/about/6.htm
 * issue: xss
 
 ## Position
